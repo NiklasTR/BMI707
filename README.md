@@ -1,1 +1,1 @@
-# bmi707
+# BMI707 Deep Learning for Biomedical Data
